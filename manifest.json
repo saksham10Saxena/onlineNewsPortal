@@ -1,0 +1,24 @@
+{
+  "short_name": "Aim News",
+  "name": "News app by anakshiant",
+  "icons": [
+    {
+      "src": "icon.ico",
+      "type": "image/ico",
+      "sizes": "48x48"
+    },
+    {
+      "src": "ico.png",
+      "type": "image/ico",
+      "sizes": "96x96"
+    },
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#2196F3",
+  "display":"standalone"
+}
